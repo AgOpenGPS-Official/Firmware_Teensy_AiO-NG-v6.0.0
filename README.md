@@ -11,7 +11,7 @@ This firmware is based on the official [All-In-One v4.x I2C](https://github.com/
 
 ### To Do
 
-too many to list, much many changes coming...
+too many to list, much many changes coming.
 
 ### To Contribute
 There is a lot of active dev work expected in the next few months. The planned work flow for contributing is to create a branch from main, make some changes/improvments and create a pull request back to main but for now if you have a feature request it might be better to create an issue so that there's a log and we don't forget about it. We might also already be working/planning on it.
