@@ -1,4 +1,4 @@
-![AgOpenGPS](https://github.com/AgOpenGPS-Official/Firmware_Teensy_AiO-NG-v6/blob/develop/media/agopengps%20name%20logo.png)
+![AgOpenGPS](media/agopengps%20name%20logo.png)
 [AOG Download](https://github.com/agopengps-official/AgOpenGPS/releases)<br>
 [AOG Forum](https://discourse.agopengps.com/)<br>
 [AOG YouTube](https://youtube.com/@AgOpenGPS)
@@ -16,6 +16,6 @@ too many to list, much many changes coming.
 ### To Contribute
 There is a lot of active dev work expected in the next few months. The planned work flow for contributing is to create a branch from main, make some changes/improvments and create a pull request back to main but for now if you have a feature request it might be better to create an issue so that there's a log and we don't forget about it. We might also already be working/planning on it.
 
-![PCB 3D Top](https://github.com/AgOpenGPS-Official/Firmware_Teensy_AiO-NG-v6/blob/develop/media/top%202d.png)
-![PCB 2D Top](https://github.com/AgOpenGPS-Official/Firmware_Teensy_AiO-NG-v6/blob/develop/media/top%203d.png)
+![PCB 3D Top](media/top%202d.png)
+![PCB 2D Top](media/top%203d.png)
 
