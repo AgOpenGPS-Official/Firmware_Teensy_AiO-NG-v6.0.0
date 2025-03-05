@@ -20,5 +20,5 @@ There is a lot of active dev work expected in the next few months. Here are some
 2) Develop is where we make changes, adding new features and fixing bugs, it's like a "nightly" release, good for testing. So to contribute, branch off Develop, make some changes, make a PR back to Develop and get it reviewed.
 3) Open an Issue for bug reports & feature requests
 
-![PCB 2D Top](https://github.com/AgOpenGPS-Official/Board_Teensy_AiO-NG-v6/blob/main/media/top%202d.png)
-![PCB 3D Top](https://github.com/AgOpenGPS-Official/Board_Teensy_AiO-NG-v6/blob/main/media/top%203d.png)
+![PCB 2D Top](/media/top%202d.png)
+![PCB 3D Top](/media/top%203d.png)
